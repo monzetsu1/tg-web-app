@@ -9,7 +9,7 @@ function App() {
   })
 
   const onClose = () => {
-    tg.onClose()
+    tg.onClose;
 }
 
 
